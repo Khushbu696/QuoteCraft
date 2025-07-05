@@ -15,7 +15,7 @@ QuoteCraft is a minimal and elegant React web app that displays random motivatio
 
 ## 🌐 Live Demo
 
-> Coming soon... (You can add your deployed link here if hosted on Netlify, Vercel, etc.)
+> https://k-quotecraft.netlify.app/
 
 ---
 
